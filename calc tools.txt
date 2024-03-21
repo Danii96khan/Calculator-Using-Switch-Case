@@ -1,0 +1,3 @@
+#! /usr/bin/env node
+package.json
+"bin":"index.js",
